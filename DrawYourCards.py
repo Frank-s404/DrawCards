@@ -1,9 +1,7 @@
 # -*- codeing = utf-8 -*-
 #@Time: 2021/2/19 22:11
 #@Name: DrawYourCards.py
-# -*- codeing = utf-8 -*-
-#@Time: 2021/2/18 11:41
-#@Name: TakeCards.py
+
 
 
 import random
